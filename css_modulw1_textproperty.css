@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    border: solid;
+    text-decoration:  pink underline;
+   
+
+    /* width: 50%; */
+}
+h3{
+    text-align: left;
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+p{
+    text-align:justify;
+    font-weight: bold;
+    /* text-decoration: underline; */
+    /* text-decoration-color: red; */
+    line-height: normal;
+    letter-spacing: 1px;
+    font-size: 20px;
+
+
+}
+h2{
+    font-weight: bolder;
+    text-decoration: line-through;
+    text-decoration-color: red;
+
+}
+a{
+  text-decoration: none;
+}
