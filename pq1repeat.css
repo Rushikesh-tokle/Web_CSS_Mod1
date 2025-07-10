@@ -8,3 +8,15 @@ p{
     color: aliceblue;
     background-color: black;
 }
+div{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #ffa5ff;
+    text-decoration: teal double underline;
+    text-size-adjust: 55px;
+    font-weight: 900px;
+    letter-spacing: 2px;
+    line-height: 1.5ex;
+
+
+}
