@@ -17,6 +17,7 @@ div{
     font-weight: 900px;
     letter-spacing: 2px;
     line-height: 1.5ex;
+    text-transform: capitalize;
 
 
 }
